@@ -11,6 +11,5 @@
     echo 'I live in $address<br>';
     echo 'I live in '.$address;
     echo '<br>';
-    echo $name.' Live in '.$address
-
+    echo $name.' Live in '.$address;
 ?>
